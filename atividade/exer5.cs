@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace atividade
 {
-    public class produtos : exec3
+    internal class exer5
     {
-        public produtos(int id, cod_peça, double preço, int vendidas) { }
     }
 }
